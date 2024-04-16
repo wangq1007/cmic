@@ -1,1 +1,2 @@
 # cmic
+Ultimately, a total of 3600 microscopic ceramic images are obtained. To fully utilize the samples, extract the features of ancient ceramic images effectively, and improve the generalization ability of our model, the samples are randomly divided into training set and test set in an approximate ratio of 9:1. The final dataset consists of 3240 images in the training set and 360 images in the test set. 
